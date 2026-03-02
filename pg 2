@@ -14,18 +14,23 @@
 <body>
 
 <div class="message">
-<h2>Me</h2>
-<p>How are you?</p>
-</div> 
-
-<div class="message">
 <h2>Alex</h2>
-<p>I am good! I was bored waiting for you lol</p>
+<p>Okay, talk to you later.</p>
 </div>
 
 <div class="message">
 <h2>Me</h2>
-<p>haha well good to know you missed me</p>
+<p>Hey I'm back, just got off of work rip. How r u?</p>
+</div> 
+
+<div class="message">
+<h2>Alex</h2>
+<p>I am good! I was bored waiting for you haha</p>
+</div>
+
+<div class="message">
+<h2>Me</h2>
+<p>lol well good to know you missed me</p>
 </div>
 
 </body>
